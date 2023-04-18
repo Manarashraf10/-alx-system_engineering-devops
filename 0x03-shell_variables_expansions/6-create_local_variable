@@ -1,3 +1,2 @@
 #!/bin/bash
-BEST="School"
-
+MY_VAR="BEST, School"
